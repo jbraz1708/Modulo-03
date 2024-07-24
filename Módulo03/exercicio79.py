@@ -10,5 +10,5 @@ while True:
     r = str(input('Quer continuar? [S/N]'))
     if r in 'Nn':
         break
-lista.sort
+lista.sort()
 print(lista)
